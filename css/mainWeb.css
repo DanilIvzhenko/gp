@@ -1,0 +1,48 @@
+#Logo {
+    
+    border: 0;
+    background-image: url(Main\pics\Logo.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    /*Менять размеры относительно размера сайта*/
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* Series.png */
+
+#SeriesButton {
+    border: 0;
+    background-image: url(Main\pics\Series.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    /*поднять до уровня Series.png*/
+}
+
+/* Films.png make righter than Series.png */
+
+#FilmsButton {
+    
+    border: 0;
+    background-image: url(Main\pics\Films.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    /*поднять до уровня Series.png*/
+}
+
+
+

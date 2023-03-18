@@ -1,0 +1,17 @@
+.pic-wrapper {
+    max-width: 100px;
+}
+.pic-wrapper img {
+    width: 100%;
+}
+.pic-wrapper a {
+    display:block;
+}
+
+
+
+.SeriesTitle{
+    background-color: azure;
+    padding-top: 0.1%;
+    text-align: center;
+}

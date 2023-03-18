@@ -1,0 +1,214 @@
+.pic-wrapper {
+    max-width: 100px;
+}
+.pic-wrapper img {
+    width: 100%;
+}
+.pic-wrapper a {
+    display:block;
+}
+
+
+
+.SeriesTitle{
+    background-color: azure;
+    padding-top: 0.1%;
+    text-align: center;
+}
+
+.SeriesPics {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+.SeriesPics2 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+.SeriesPics3 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+.SeriesPics4 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*first row*/
+.FOXpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding-left: 500%;
+    padding-bottom: 500%;
+}
+
+.theCWpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 500%;
+}
+
+.DCuniversePic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 500%;
+}
+
+.HBOpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 500%;
+}
+/*second row*/
+.HuluPic{
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding-left: 1800%;
+    padding-bottom: 500%;
+}
+
+.AMCpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 1800%;
+}
+
+.ABCpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 1800%;
+}
+
+.NetflixPic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;  
+    padding-left: 1800%;
+}
+/*third row*/
+.DisneyPlusPic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding-left: 3200%;
+    padding-bottom: 500%;
+}
+
+.CBSpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 3200%;
+}
+
+.NBCpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 3200%;
+}
+
+.BBCpic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 3200%;
+}
+/*4th row*/
+.QuibiPic{
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding-left: 4600%;
+    padding-bottom: 500%;
+}
+
+.PrimePic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 4600%;
+}
+
+.TwoDoubleTwoPic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 4600%;
+}
+
+.OtherPic {
+    float: left;
+    height: 200%;
+    width: 200%;
+    margin: 0;
+    padding: 500%;
+    padding-left: 4600%;
+}
+
+
+
+.FOXpic img, .theCWpic img, .DCuniversePic img, .HBOpic img {
+    width: 400%;
+    height: 400%;
+}
+
+.HuluPic img, .AMCpic img, .ABCpic img, .NetflixPic img{
+    width: 400%;
+    height: 400%;
+}
+
+.DisneyPlusPic img, .CBSpic img, .NBCpic img, .BBCpic img{
+    width: 400%;
+    height: 400%;
+}
+.QuibiPic img, .PrimePic img, .TwoDoubleTwoPic img, .OtherPic img{
+    width: 400%;
+    height: 400%;
+}
